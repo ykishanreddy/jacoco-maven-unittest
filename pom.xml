@@ -45,15 +45,15 @@
   
   <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>ykreddys</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.238.151:8081/repository/maven-releases/</url>
+		<url>http://18.222.82.44:8081/repository/ykreddys/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>ykreddys</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.238.151:8081/repository/maven-snapshots/</url>
+		<url>http://18.222.82.44:8081/repository/ykreddys-snap/</url>
 	</snapshotRepository>
 
 </distributionManagement>
